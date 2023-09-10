@@ -1,5 +1,5 @@
 # Site Build Settings
-
+theme: Millennial
 # jekyll-paginate configuration
 paginate:            5
 
